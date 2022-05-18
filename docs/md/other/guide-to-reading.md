@@ -2,7 +2,7 @@
 title: 目录
 ---
 
-# bugstack虫洞栈 | 程序员的编码指南 🔥
+# bugstack虫洞栈 | 程序员1的编码指南 🔥
 
 >你好，我是小傅哥，[《重学Java设计模式》](https://item.jd.com/13218336.html) 图书作者，一线互联网 Java 工程师、架构师。
 
